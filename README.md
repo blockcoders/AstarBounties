@@ -79,6 +79,8 @@ WebAssemply dApps - https://github.com/AstarNetwork/AstarBounties/issues/15
 
 **Github - Contracts:** https://github.com/blockcoders/dotocracy-contracts
 
+**Link to hosted dApp:** https://dotocracy.blockcoders.io/
+
 ## Must have an open-source license
 
 MIT

@@ -52,7 +52,9 @@ Is an Ethereum-compatible smart contract parachain on Polkadot. This means that 
 
 The network supports the building of dApps with EVM and WASM smart contracts and offers developers true interoperability, with cross-consensus messaging (XCM). Astar Network focuses on making the best smart contract platform so that dApps developers on Polkadot do not need to pay much attention to infrastructure and can focus more on their dApp.
 
-### Refernces
+### References
+
+https://twitter.com/fsirni/status/1597311879289851904?s=46&t=vOkxL4_TSdQj0ZcZ1XCP9A
 
 This project won the second prize in the Polkadot Hackathon Latam 2022. As for that time, the smart contracts were only deployed in Moonbase Alpha. Now, the smart contracts are deployed also in Shibuya Testnet and Shiden Network in both Solidity and WebAssembly (Ink!).
 
